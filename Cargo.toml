@@ -1,0 +1,9 @@
+[package]
+name = "rumium"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tao = "0.30" # O la versión que estés usando
+wry = "0.39" # O la versión que estés usando
+image = "0.25"
